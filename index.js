@@ -1,0 +1,1 @@
+function demo(){console.log(123)}demo();var maomao=function(){alert("毛毛姐你欠我一个媳妇!")};maomao();var a=function(){alert("凯哥是个大帅比,哈哈哈")};a();var b=function(){alert("阿哲真的狗")};b();var c=function(){alert("胖奎的真的胖")};c();var d=function(){alert("飞哥真的是混社会的啊")};d();
